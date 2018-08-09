@@ -1,3 +1,4 @@
 Gabriel Macht
-Patrick J. Adams
+Gina Torres
 Rick Hoffman
+Dulé Hill
