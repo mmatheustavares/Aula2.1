@@ -1,1 +1,3 @@
-# Aula2.1
+Gabriel Macht
+Patrick J. Adams
+Rick Hoffman
